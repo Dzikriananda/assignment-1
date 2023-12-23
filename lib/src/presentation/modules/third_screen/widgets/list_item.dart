@@ -15,14 +15,12 @@ class ListItem extends StatelessWidget {
           final result = '${item.firstName} ${item.lastName}';
           Navigator.pop(context, result);
         },
-        leading: ClipRRect(
-          borderRadius: BorderRadius.circular(100),
-          child: Image.network(
-            item.avatar,
-          ),
+        leading: CircleAvatar(
+          radius: 30, // Image radius
+          backgroundImage: NetworkImage(item.avatar),
         ),
         title: Padding(
-          padding: const EdgeInsets.symmetric(vertical: 0,horizontal: 10),
+          padding: const EdgeInsets.symmetric(vertical: 0,horizontal: 5),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
