@@ -1,0 +1,1 @@
+enum ResultState {started,loading,noData,hasData,success,error}

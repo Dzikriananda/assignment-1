@@ -1,0 +1,20 @@
+{
+  "alertDialogButton" : "OK",
+  "firstScreenTextfieldHint_1" : "Name",
+  "firstScreenTextfieldHint_2" : "Palindrome",
+  "firstScreenButton_1" : "Check",
+  "firstScreenButton_2" : "Next",
+  "firstScreenTextfieldNullAlert_1" : "Name Must Not Be Null!",
+  "firstScreenAlertDialogPalindrome" : "isPalindrome",
+  "firstScreenAlertDialogNotPalindrome" : "notPalindrome",
+  "firstScreenAlertDialogProfile" : "This Feature Is Not Ready Yet!",
+  "secondScreenAppBar" : "Second Screen",
+  "secondScreen_1" : "Welcome",
+  "secondScreen_2" : "Selected User Name",
+  "secondScreen_3" : "Choose a User",
+  "thirdScreenAppBar" : "Third Screen",
+  "thirdScreen_1" : "Error loading data!",
+  "thirdScreen_2" : "No items found.",
+  "thirdScreen_3" : "No More Items"
+
+}

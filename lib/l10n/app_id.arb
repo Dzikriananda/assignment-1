@@ -1,0 +1,19 @@
+{
+  "alertDialogButton" : "OK",
+  "firstScreenTextfieldHint_1" : "Nama",
+  "firstScreenTextfieldHint_2" : "Palindrom",
+  "firstScreenButton_1" : "Cek",
+  "firstScreenButton_2" : "Selanjutnya",
+  "firstScreenTextfieldNullAlert_1" : "Nama Tidak Boleh Kosong!",
+  "firstScreenAlertDialogPalindrome" : "Palindrom",
+  "firstScreenAlertDialogNotPalindrome" : "Bukan Palindrom,",
+  "firstScreenAlertDialogProfile" : "Fitur Ini Belum Tersedia!",
+  "secondScreenAppBar" : "Screen Dua",
+  "secondScreen_1" : "Selamat Datang",
+  "secondScreen_2" : "Nama pengguna yang dipilih",
+  "secondScreen_3" : "Pilih sebuah pengguna",
+  "thirdScreenAppBar" : "Screen Tiga",
+  "thirdScreen_1" : "Galat Saat Memuat Data!",
+  "thirdScreen_2" : "Tidak Ditemukan",
+  "thirdScreen_3" : "Sudah Mencapai Daftar Paling Bawah"
+}
