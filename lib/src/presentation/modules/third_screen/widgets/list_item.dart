@@ -37,7 +37,7 @@ class ListItem extends StatelessWidget {
             ],
           ),
         ),
-        contentPadding: const EdgeInsets.symmetric(vertical: 10, horizontal: 0),
+        contentPadding: const EdgeInsets.fromLTRB(0, 0, 0, 10),
         shape: const Border(
           bottom: BorderSide(
               color: appBarBorderColor
